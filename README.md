@@ -3,7 +3,7 @@ Various coding projects.
 
 1. "Investment Input Data Clean" & "Investment Analysis"
 
-      OR "Play that funky flow control, new Python coder"
+      OR: "Play that funky flow control, new Python coder"
         
         Early project analyzing my personal investments. Worked from poor scans of old 
         documents so had to do a bit of manipulating to get the data into a workable 
@@ -16,8 +16,8 @@ Various coding projects.
 
 2. Time series analysis of Bitcoin on-chain data.
  
-     OR "How I proved the ML principle 'No Free Lunch"
-     OR "The perils of being un-pythonic"
+     OR: "How I proved the ML principle 'No Free Lunch"
+     OR: "The perils of being un-pythonic"
         
         Informed by an analysis of factors influencing price of components of the S&P 500 
         (https://dachxiu.chicagobooth.edu/download/ZOO.pdf) executed in Data Science for 
