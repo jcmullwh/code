@@ -17,6 +17,7 @@ Various coding projects.
 2. Time series analysis of Bitcoin on-chain data.
  
      OR: "How I proved the ML principle 'No Free Lunch"
+     
      OR: "The perils of being un-pythonic"
         
         Informed by an analysis of factors influencing price of components of the S&P 500 
