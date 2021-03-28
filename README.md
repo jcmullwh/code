@@ -14,7 +14,7 @@ Various coding projects.
        
 
 
-2. Time series analysis of Bitcoin on-chain data.
+2. "On-Chain (+) Analysis"
  
      OR: "How I proved the ML principle 'No Free Lunch"
      
