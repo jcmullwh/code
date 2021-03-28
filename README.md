@@ -10,7 +10,7 @@ Various coding projects.
         format. Then compared returns to a hypothetical portfolio that bought and 
         sold IVV at the same times and dollar value as the trades that I executed (in 
         order to control for non-investing-decision inflows and outflows). Result: +2%. 
-        Ivwonder if Warren's hiring.
+        I wonder if Warren's hiring.
        
 
 
@@ -20,10 +20,9 @@ Various coding projects.
      
      OR: "The perils of being un-pythonic"
         
-        Informed by an analysis of factors influencing price of components of the S&P 500 
-        (https://dachxiu.chicagobooth.edu/download/ZOO.pdf) executed in Data Science for 
-        Finance. Takes info via API from Glassnode, adds deviation from average over 
-        various periods and applies PCA and Random Forest Regressor. Considers the 
-        statistical significance of the generated model and finds none. Next step will be 
-        to look at the various metrics individually akin to the paper itself and conduct 
-        supervised selection for input.
+        An exercise in apply ML concepts from Data Science for Finance to a non-equity
+        investment. Takes on-chain Bitcoininfo via API from Glassnode, adds deviation 
+        from average over various periods and applies PCA and Random Forest Regressor. 
+        Considers the statistical significance of the generated model (and finds none). 
+        Next step will be to look at the various metrics individually and conduct 
+        supervised selection for inputs.
